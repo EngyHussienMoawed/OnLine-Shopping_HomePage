@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.carousel-indicators button{
+    background-color: white !important;
+    display: inline-block;
+    width: 20px !important;
+    height: 20px !important;
+    border-radius: 50%;
+}
+.row .card-body .btn{
+    color: gray;
+    background-color: white;
+    border: white;
+}
+.row .card-body .btn:hover
+{
+    color: rgba(255, 0, 0, 0.438);
+    background-color: white;
+}
+.footer .col-lg-2 .btnn:hover{
+    color: rgba(255, 0, 0, 0.438);
+
+text-decoration: underline;
+}
+
